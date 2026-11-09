@@ -94,3 +94,18 @@ Keep the associated `_files` folders, `assets` folder, shared CSS and shared Jav
 - Comparison jump link, FAQ disclosure, customer-story attribution and product-description expansion checked in the browser. The existing full-card link overlay was adjusted so it does not intercept the description controls.
 - Enquiry links point to DTE's existing contact page. No enquiries were submitted.
 - Evidence: [structural checks](verification/structural-checks.json), [browser checks](verification/browser-checks.json) and desktop/mobile screenshots in `verification/`.
+
+## Skid steer mulchers (parent) and skid steer drum mulchers
+
+Added 9 November 2026. The parent category is new and is intended for `/product-category/virnig/skid-steer-mulchers/`. It lists the V70 Drum and V70 Tree Disc mulchers. Its primary targets are skid steer mulcher, forestry mulcher, skid steer forestry mulcher and mulcher attachment. The drum page targets drum mulcher and skid steer drum mulcher. The disc page keeps disc mulcher.
+
+- Drum page base content: `client-mockup/product-pages/drum-mulchers.html` (product name, DRM60 · DRM72 model codes, 14-inch capacity and below-grade blurb, product image).
+- [V70 Drum Mulcher product](https://www.dte-equipment.com.au/product/virnig-v70-drum-mulcher/): DRM60/DRM72 cut and overall widths, teeth count, weights, bite control drum weight, 18-inch Quadco drum, 2,500 RPM, 2-inch below-grade depth, 30–50 GPM (114–190 L/min), loader capacity above 2,800 lb (1,270 kg), shatterproof cab, motor, drum and tooth guidance, and 60-inch versus 72-inch guidance.
+- [V70 skid steer sizing guide](https://www.dte-equipment.com.au/what-size-skid-steer-do-i-need-for-a-v70-drum-or-disc-mulcher/): Virnig minimum 1,270 kg rated operating capacity, DTE recommended 1,350 kg+ and 4,500 kg+ operating weight, 115–190 L/min high flow, and nearly identical drum and disc requirements.
+- [Drum versus disc guide](https://www.dte-equipment.com.au/drum-mulcher-vs-disc-mulcher-which-forestry-mulcher-to-buy/): finish, debris, below-grade capability, speed, upfront cost and site suitability. Virnig's productivity claims were not repeated.
+
+### To confirm with DTE before publishing
+
+- Maximum operating pressure: the drum product page says 4,200 PSI in its description and 4,500 PSI (31.0 MPa) in its specification table. The drum page leaves pressure out of the table until DTE confirms.
+- The sizing guide gives the recommended capacity as 1,350 kg in one section and 1,300 kg in its summary. The pages use 1,350 kg.
+- The drum product's WooCommerce product ID was not available, so the card has no `data-product-id`.

@@ -9,56 +9,56 @@
     "canonical": "https://www.dte-equipment.com.au/product-category/greentec/reach-mowers/",
     "products": [
       {
-        "name": "Greentec Scorpion 330-4 Plus Basic Reach Mower \u2013 Front Mounted",
+        "name": "Greentec Scorpion 330-4 Plus Basic Reach Mower – Front Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-330-430-basic-front-2/",
         "image": "assets/images/2cbc0aaace8e.png",
         "summary": "Compact boom mower for verge mowing and hedge trimming. This front-mounted Basic model is designed for loaders weighing at least 2,250 kg.",
         "id": "11681"
       },
       {
-        "name": "Greentec Scorpion 330-4 Plus Reach Mower \u2013 Front Mounted",
+        "name": "Greentec Scorpion 330-4 Plus Reach Mower – Front Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-330-430-front-and-rear-mounted-3/",
         "image": "assets/images/2cbc0aaace8e.png",
         "summary": "Compact front-mounted boom mower for restricted spaces and hedgerow maintenance, designed for small tractors weighing at least 1,650 kg.",
         "id": "11686"
       },
       {
-        "name": "Greentec Scorpion 430-4 Plus Basic Reach Mower \u2013 Front Mounted",
+        "name": "Greentec Scorpion 430-4 Plus Basic Reach Mower – Front Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-330-430-basic-front-4/",
         "image": "assets/images/2cbc0aaace8e.png",
         "summary": "Compact boom mower for verge mowing and hedge trimming. This front-mounted Basic model is designed for loaders weighing at least 3,000 kg.",
         "id": "11683"
       },
       {
-        "name": "Greentec Scorpion 430-4 Plus Reach Mower \u2013 Front Mounted",
+        "name": "Greentec Scorpion 430-4 Plus Reach Mower – Front Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-330-430-front-and-rear-mounted-4/",
         "image": "assets/images/2cbc0aaace8e.png",
         "summary": "Front-mounted boom mower for restricted spaces, roadside vegetation and hedgerows, designed for small tractors weighing at least 2,200 kg.",
         "id": "11687"
       },
       {
-        "name": "Greentec Scorpion 530-6 Plus Reach Mower \u2013 Rear Mounted",
+        "name": "Greentec Scorpion 530-6 Plus Reach Mower – Rear Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-530-630-rear-mounted-3/",
         "image": "assets/images/e4f67d86ce2b.webp",
         "summary": "Rear-mounted boom mower for roadside maintenance, verge mowing and tree trimming. Minimum tractor weight: 4,000 kg.",
         "id": "11691"
       },
       {
-        "name": "Greentec Scorpion 630-6 Plus Reach Mower \u2013 Rear Mounted",
+        "name": "Greentec Scorpion 630-6 Plus Reach Mower – Rear Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-530-630-rear-mounted-4/",
         "image": "assets/images/e4f67d86ce2b.webp",
         "summary": "Rear-mounted boom mower for roadside maintenance, verge mowing and hedge cutting. Minimum tractor weight: 5,000 kg.",
         "id": "11692"
       },
       {
-        "name": "Greentec Scorpion 730-8 Plus Reach Mower \u2013 Rear Mounted",
+        "name": "Greentec Scorpion 730-8 Plus Reach Mower – Rear Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-730-830-rear-mounted-3/",
         "image": "assets/images/47137fa0d82e.webp",
         "summary": "Rear-mounted boom mower for roadside maintenance, hedge cutting and tree trimming. Minimum tractor weight: 7,000 kg.",
         "id": "11696"
       },
       {
-        "name": "Greentec Scorpion 830-8 Plus Reach Mower \u2013 Rear Mounted",
+        "name": "Greentec Scorpion 830-8 Plus Reach Mower – Rear Mounted",
         "url": "https://www.dte-equipment.com.au/product/scorpion-730-830-rear-mounted-4/",
         "image": "assets/images/47137fa0d82e.webp",
         "summary": "Rear-mounted boom mower for roadside maintenance, hedge cutting and tree trimming. Minimum tractor weight: 8,000 kg.",
@@ -68,7 +68,7 @@
         "name": "Greentec Spider 520 PLUS Reach Mower",
         "url": "https://www.dte-equipment.com.au/product/spider-520-plus/",
         "image": "assets/images/a50b761c60e6.jpg",
-        "summary": "Dual-side reach mower with the cutting tool able to move forward into the operator\u2019s view. Minimum tractor weight: 5,000 kg.",
+        "summary": "Dual-side reach mower with the cutting tool able to move forward into the operator’s view. Minimum tractor weight: 5,000 kg.",
         "id": "13011"
       },
       {
@@ -93,7 +93,8 @@
         "id": "13028"
       }
     ],
-    "browse": "Browse GreenTec reach mowers"
+    "browse": "Browse GreenTec reach mowers",
+    "path": "/reach-mowers/"
   },
   {
     "slug": "flail-mowers",
@@ -140,7 +141,57 @@
         "id": "11520"
       }
     ],
-    "browse": "Browse GreenTec flail mower heads"
+    "browse": "Browse GreenTec flail mower heads",
+    "path": "/flail-mowers/"
+  },
+  {
+    "slug": "skid-steer-mulchers",
+    "label": "Skid steer mulchers",
+    "brand": "Virnig",
+    "path": "/skid-steer-mulchers/",
+    "blurb": "Virnig V70 drum and disc mulcher attachments for high-flow skid steers. Compare finish, clearing speed and below-grade capability.",
+    "title": "Skid Steer Mulchers & Forestry Mulcher Attachments | Virnig | DTE",
+    "description": "Compare Virnig V70 drum and disc forestry mulcher attachments for high-flow skid steers. Check capacity, finish and loader requirements, then request a quote.",
+    "canonical": "https://www.dte-equipment.com.au/product-category/virnig/skid-steer-mulchers/",
+    "status": "new category, not yet live",
+    "products": [
+      {
+        "name": "Virnig V70 Drum Mulcher",
+        "url": "https://www.dte-equipment.com.au/product/virnig-v70-drum-mulcher/",
+        "image": "assets/images/v70-drum-mulcher.jpg",
+        "summary": "Available in 60 and 72-inch cut widths (DRM60 and DRM72). Mulches trees up to 14 inches in diameter and grinds stumps up to 2 inches below grade.",
+        "id": ""
+      },
+      {
+        "name": "Virnig V70 Tree Disc Mulcher",
+        "url": "https://www.dte-equipment.com.au/product/virnig-v70-tree-disc-mulcher/",
+        "image": "assets/images/2c09b610df55.jpg",
+        "summary": "A 60-inch disc mulcher for high-flow skid steers. Mulches 6–8-inch diameter trees and cuts trees up to 14 inches; confirm loader compatibility with DTE.",
+        "id": "13281"
+      }
+    ],
+    "browse": "Browse Virnig skid steer mulchers"
+  },
+  {
+    "slug": "drum-mulchers",
+    "label": "Skid steer drum mulchers",
+    "brand": "Virnig",
+    "path": "/drum-mulchers/",
+    "parent": "skid-steer-mulchers",
+    "blurb": "The V70 Drum Mulcher for high-flow skid steers, in 60 and 72-inch cut widths. Compare drum, tooth and motor options.",
+    "title": "Skid Steer Drum Mulchers | Virnig V70 | DTE Equipment",
+    "description": "Explore the Virnig V70 skid steer drum mulcher in 60 and 72-inch widths. Check high-flow requirements, drum and tooth options and below-grade capability.",
+    "canonical": "https://www.dte-equipment.com.au/product-category/virnig/skid-steer-drum-mulchers/",
+    "products": [
+      {
+        "name": "Virnig V70 Drum Mulcher",
+        "url": "https://www.dte-equipment.com.au/product/virnig-v70-drum-mulcher/",
+        "image": "assets/images/v70-drum-mulcher.jpg",
+        "summary": "Available in 60 and 72-inch cut widths (DRM60 and DRM72). Mulches trees up to 14 inches in diameter and grinds stumps up to 2 inches below grade.",
+        "id": ""
+      }
+    ],
+    "browse": "Browse the Virnig drum mulcher"
   },
   {
     "slug": "disc-mulchers",
@@ -155,11 +206,13 @@
         "name": "Virnig V70 Tree Disc Mulcher",
         "url": "https://www.dte-equipment.com.au/product/virnig-v70-tree-disc-mulcher/",
         "image": "assets/images/2c09b610df55.jpg",
-        "summary": "A 60-inch disc mulcher for high-flow skid steers. Mulches 6\u20138-inch diameter trees and cuts trees up to 14 inches; confirm loader compatibility with DTE.",
+        "summary": "A 60-inch disc mulcher for high-flow skid steers. Mulches 6–8-inch diameter trees and cuts trees up to 14 inches; confirm loader compatibility with DTE.",
         "id": "13281"
       }
     ],
-    "browse": "Browse the Virnig disc mulcher"
+    "browse": "Browse the Virnig disc mulcher",
+    "parent": "skid-steer-mulchers",
+    "path": "/disc-mulchers/"
   },
   {
     "slug": "brush-cutters",
@@ -220,7 +273,8 @@
         "id": "13254"
       }
     ],
-    "browse": "Browse Virnig rotary brush cutters"
+    "browse": "Browse Virnig rotary brush cutters",
+    "path": "/brush-cutters/"
   },
   {
     "slug": "quadsaws",
@@ -274,6 +328,7 @@
         "id": "11670"
       }
     ],
-    "browse": "Browse Quadsaw and Twinsaw models"
+    "browse": "Browse Quadsaw and Twinsaw models",
+    "path": "/quadsaws/"
   }
 ]
